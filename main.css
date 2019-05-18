@@ -1,0 +1,76 @@
+p{	font: 40px bold ;
+	font-family: helvetica;
+	color: white;
+	background-color: #1c52a8;
+	margin: 0px;
+	padding-top: 20px;
+	padding-left: 60px;
+	padding-bottom: 20px;
+	/*margin-bottom: 50px;*/
+}
+#mail{
+	position: absolute;
+	left: 900px;
+	background-color: #1c52a8;
+	font :bold;
+	color: white;
+}
+#mail1{
+	position: absolute;
+	left: 1100px;
+	background-color: #1c52a8;
+	font :bold;
+	color: white;
+}
+
+input[type="Submit"]{
+	color: #fff ;
+	border: 0px;
+	background: #0a3d91;
+}
+
+#zweiparten{
+	position: absolute;
+	/*margin-top: 50px solid #cbdbf4;*/
+	padding-top: 25px solid #cbdbf4;
+	padding-left: 20px;
+	margin-right: 400px;
+	background-color:#cbdbf4;
+	padding-bottom: 20px;
+
+	font: bold 20px;
+	height: 500px;
+	font-family: helvetica; 
+}
+#dreiparten{
+	position: absolute;
+	background-color: #cbdbf4;
+	padding-left: 400px;
+	width:480px;
+	height: 500px;
+	border-top:100px; 
+
+	padding-top: 0px;
+	padding-bottom: 20px;
+	font: 16px bold;
+	font-family: helvetica;
+}
+.information{ font: 5px; }
+#mail2{
+	width: 50px;
+}
+.information{
+font :10px;
+}
+input[type="Submit"]#second{
+	background-color: green;
+	 color: white 20px bold;
+	 border: 0px;
+	 padding-top: 5px;
+	 padding-right: 25px;
+	 padding-left: 25px;
+	 padding-bottom: 5px;
+}
+.foot{
+	font: blue 20px;
+}
